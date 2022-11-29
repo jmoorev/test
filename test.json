@@ -1,22 +1,22 @@
-{
-  "lives": [
-    {
-      "name": "CCTV1",
-      "type": 0,
-      "url": "http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226706/index.m3u8",
-      "epg": "https://epg.112114.xyz/?ch={name}",
-      "logo": "",
-      "ua": ""
-    },
-    {
-      "name": "CCTV5",
-      "type": 0,
-      "url": "http://[2409:8087:4400:20:1:70f:1011:1c]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226487/index.m3u8",
-      "epg": "https://epg.112114.xyz/?ch={name}",
-      "logo": "",
-      "ua": ""
-    }
-  ]
-}
-
-广东体育，http://121.51.249.88/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+港澳台,#genre#
+凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8 
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8 
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8 
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8 
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8 
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8 
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv2.m3u8 
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8 
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8 
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8 
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8 
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8 
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8 
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8 
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8 
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8 
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8 
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8 
+凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8 
