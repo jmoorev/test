@@ -216,6 +216,12 @@ CCTV4,http://[2409:8087:6a01:1020::b]/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 安徽卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225691/2/index.m3u8
 安徽卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225737/2/index.m3u8
 
+地方,#genre#
+广州新闻,https://justsometime.gztv.com/sec/xinwen.m3u8
+广州新闻,http://9.zhxinda.xyz/gz.php?id=xinwen
+广州影视,http://9.zhxinda.xyz/gz.php?id=yingshi
+大湾区卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
+
 影视,#genre#
 周星驰-粤语,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
 吴孟达,http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
