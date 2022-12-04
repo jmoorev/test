@@ -320,7 +320,6 @@ CCTV5,http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=
 
 地方,#genre#
 广东体育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
-广东体育,http://120.84.96.55:808/hls/22/index.m3u8
 广州新闻,https://justsometime.gztv.com/sec/xinwen.m3u8
 广州新闻,http://9.zhxinda.xyz/gz.php?id=xinwen
 广州影视,http://9.zhxinda.xyz/gz.php?id=yingshi
@@ -432,6 +431,4 @@ TVBS HD,http://140.238.155.232:9000/jmsytb.m3u8?c=31
 中天新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=24
 中视新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=25
 东森电影,http://120.84.96.33:808/hls/32/index.m3u8
-CBS News,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_8.m3u8
 NHK World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-
