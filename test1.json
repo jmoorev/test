@@ -416,8 +416,8 @@ CCTV5,http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=
 天映经典,http://120.84.96.66:808/hls/85/index.m3u8
 东森电影,http://120.84.96.62:808/hls/32/index.m3u8?blog.ntnas.top
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-凤凰中文,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-凤凰资讯,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+凤凰中文,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
+凤凰资讯,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
 TVB无线财经,http://120.84.96.62:808/hls/86/index.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
