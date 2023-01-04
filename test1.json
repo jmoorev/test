@@ -317,7 +317,6 @@ CCTV5,http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=
 湖北卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225740/index.m3u8
 冬奥纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
 
-
 地方,#genre#
 广东体育,http://113.64.147.183:808/hls/1/index.m3u8
 广州新闻,https://justsometime.gztv.com/sec/xinwen.m3u8
@@ -336,7 +335,6 @@ CCTV5,http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=
 商都频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226402/index.m3u8
 新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226404/index.m3u8
 文体频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226407/index.m3u8
-
 
 影视,#genre#
 HBO HD,http://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
@@ -419,7 +417,6 @@ HBO强档巨献,http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6
 TVBS新闻,https://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
 中天综合,https://pull-l3-cny.douyincdn.com/live/5f26752efeee9e0c53cf6b530640ce60.m3u8
 有线新闻台,http://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
-大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 凤凰中文,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
 凤凰资讯,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
 TVB无线财经,http://120.84.96.62:808/hls/86/index.m3u8
@@ -428,6 +425,6 @@ TVB无线财经,http://120.84.96.62:808/hls/86/index.m3u8
 澳门莲花,https://p.ggiptv.com/v/macaulotustv.php
 NHK World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 FOX News Now,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 Skynews,https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
